@@ -1,0 +1,5 @@
+site_name: Mkdocs Demo
+
+theme:
+  name: material
+
